@@ -20,7 +20,7 @@ Op je persoonlijke branch doe je quasi wat je wilt, push code met errors, fouten
 # WANT VIA GIT KAN JE OOK ALLE APARTE VERANDERINGEN ZIEN EN TERUGDRAAIEN, ZO KUNNEN WE ZIEN VAN WAAR WELKE ISSUE'S EN FEATURES KOMEN, DUS 1X PUSH PER FEATURE ALS HET KAN.
 
 Maak zelf een branch aan met je eigen naam, dat is het gemmakelijkste
-OPDRACHTJE, deze readme.md is aangepast door mij(iljo) op de main branch, creeer een pull request op je eigen branch en commit deze om deze nieuwe readme op je branch te krijgen.
 
+OPDRACHTJE, deze readme.md is aangepast door mij(iljo) op de main branch, creeer een pull request op je eigen branch en commit deze om deze nieuwe readme op je branch te krijgen.....
 
 yann
