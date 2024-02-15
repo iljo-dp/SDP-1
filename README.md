@@ -21,3 +21,6 @@ Op je persoonlijke branch doe je quasi wat je wilt, push code met errors, fouten
 
 Maak zelf een branch aan met je eigen naam, dat is het gemmakelijkste
 OPDRACHTJE, deze readme.md is aangepast door mij(iljo) op de main branch, creeer een pull request op je eigen branch en commit deze om deze nieuwe readme op je branch te krijgen.
+
+
+yann
