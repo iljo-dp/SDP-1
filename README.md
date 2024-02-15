@@ -19,9 +19,13 @@ Op je persoonlijke branch doe je quasi wat je wilt, push code met errors, fouten
 # PUSH ENKEL CODE VAN CODEBLOKEN DIE COMPLEET ZIJN, DAT JE NIET 3X PUSHES DOET VOOR 1 FEATURE(TENZIJ JE STOPT VOOR HET MOMENT).
 # WANT VIA GIT KAN JE OOK ALLE APARTE VERANDERINGEN ZIEN EN TERUGDRAAIEN, ZO KUNNEN WE ZIEN VAN WAAR WELKE ISSUE'S EN FEATURES KOMEN, DUS 1X PUSH PER FEATURE ALS HET KAN.
 
+
 Maak zelf een branch aan met je eigen naam, dat is het gemmakelijkst.
 
 OPDRACHTJE, deze readme.md is aangepast door mij(iljo) op de main branch, creeer een pull request op je eigen branch en commit deze om deze nieuwe readme op je branch te krijgen.....
 
 yann
 Secret message
+jef bezos is not zo sexy als elon musk
+=======
+
